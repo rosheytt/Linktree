@@ -5,16 +5,15 @@
 }
 
 body {
-  height: 100vh;
- background-image: url('/res/background.jpeg');
- background-repeat: no-repeat;
- background-size: 100%;
+ background-image: url('/res/background.jpeg'); !important
+ background-repeat: no-repeat; !important
+ background-size: 100%; !important
  background-color: #FCF9F4;!important
- background-attachment: fixed;
- background-position: bottom center;
+ background-attachment: fixed; !important
+ background-position: bottom center; !important
 }
 
 a {
-  text-decoration: none;
-  color: #623412;
+  text-decoration: none; !important
+  color: #623412; !important
 }
