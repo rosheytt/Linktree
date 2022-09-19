@@ -5,12 +5,12 @@
 }
 
 body {
- background-image: url('/res/background.jpeg'); !important
- background-repeat: no-repeat; !important
- background-size: 100%; !important
+ background-image: url('/res/background.jpeg');
+ background-repeat: no-repeat;
+ background-size: 100%;
  background-color: #FCF9F4;!important
- background-attachment: fixed; !important
- background-position: bottom center; !important
+ background-attachment: fixed;
+ background-position: bottom center;
 }
 
 a {
