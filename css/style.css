@@ -6,10 +6,10 @@
 }
 
 body {
- background-image: url('/res/background.jpeg'); !important
- background-repeat: no-repeat; !important
- background-size: 100%; !important
- background-color: #fbfcf7; !important
- background-attachment: fixed; !important
- background-position: bottom center; !important
+ background-image: url('/res/background.jpeg');
+ background-repeat: no-repeat;
+ background-size: 100%;
+ background-color: #fbfcf7;
+ background-attachment: fixed;
+ background-position: bottom center;
 }
