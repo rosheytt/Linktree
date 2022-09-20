@@ -19,13 +19,15 @@ body {
 
 @media only screen and (min-width: 600px) {
   /* For desktops and tablets */
-  height: 100vh;
-  background-image: url('/res/background.jpeg');
-  background-repeat: no-repeat;
-  background-size: 100%;
-  background-color: #FCF9F4;!important
-  background-attachment: fixed;
-  background-position: bottom center;
+  body {
+    height: 100vh;
+    background-image: url('/res/background.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #FCF9F4;!important
+    background-attachment: fixed;
+    background-position: bottom center;
+  }
 }
 
 .container {
