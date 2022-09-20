@@ -17,7 +17,7 @@ body {
   background-position: bottom center;
 }
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 60px) {
   /* For desktops and tablets */
   height: 100vh;
   background-image: url('/res/background.jpeg');
