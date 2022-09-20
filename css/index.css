@@ -36,6 +36,11 @@ body {
   align-items: center;
 }
 
+.child-container {
+  margin top: auto;
+  margin bottom: auto;
+}
+
 .profile {
   border-radius: 50%;
   display: flex;
