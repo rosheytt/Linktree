@@ -37,6 +37,7 @@ body {
 }
 
 .child-container {
+  display: block;
   margin top: auto;
   margin bottom: auto;
 }
