@@ -13,6 +13,10 @@ body {
  background-position: bottom center;
 }
 
+.container {
+  margin-top: 3px;
+}
+
 .profile {
   border-radius: 50%;
   display: flex;
