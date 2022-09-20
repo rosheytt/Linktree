@@ -30,16 +30,7 @@ body {
 }
 
 .container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.child-container {
-  display: block;
-  margin top: auto;
-  margin bottom: auto;
+  margin-top: 10px;
 }
 
 .profile {
