@@ -5,6 +5,7 @@
 }
 
 body {
+  height: 100%;
  background-image: url('/res/background.jpeg');
  background-repeat: no-repeat;
  background-size: 100%;
