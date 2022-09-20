@@ -36,7 +36,10 @@ body {
 }
 
 a {
-  text-align: center;
   text-decoration: none;
   color: #623412;
+}
+
+.links {
+  text-align: center;
 }
